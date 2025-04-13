@@ -73,12 +73,13 @@ blockquote {
 
 #banner {
 	position: relative;
-	padding: 10px;
-	height: 175px;
+	padding: 5px;
+	height: 235px;
 	border: 0px;
 	color: #fff;
 	background: #566c91;
 	background-image: url('Background.png');
+	background-repeat: ;
 
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#abab83', endColorstr='#a1a172', GradientType=0 );
 }
@@ -125,7 +126,7 @@ ul#topnav li {
 }
 
 ul#topnav li a {
-	background: #333;
+	background: #10315a;
 	color: #999;
 	border: none;
 	display: block;
